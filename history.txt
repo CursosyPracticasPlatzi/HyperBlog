@@ -1,0 +1,11 @@
+Esta es la historia de Jonathan
+
+Jonathan tiene 27 años y nació en Perú. Y va a cumplir 28.
+
+Hoy hablaremos de su historia.
+
+Parece un poco alto, solo parece.
+
+Hoy es el estudiante de Tech. 
+
+Ahora vamos a escribir algo para que luego lo borramos y después ver cómo regresaré al commit inicial
