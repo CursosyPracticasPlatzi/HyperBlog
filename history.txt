@@ -10,4 +10,4 @@ Hoy es el estudiante de Tech.
 
 Ahora vamos a escribir algo para que luego lo borramos y después ver cómo regresaré al commit inicial
 
-Vamos a hablar de su vida.
+Vamos a hablar de su vida y obra maestra.
