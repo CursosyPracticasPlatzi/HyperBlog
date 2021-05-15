@@ -31,3 +31,9 @@ body {
 #container h1 {
   font-size: 20px;
 }
+#pie {
+  background: brown;
+  color: crimson;
+  padding: 2em;
+  text-align: center;
+}
