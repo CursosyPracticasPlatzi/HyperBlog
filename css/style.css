@@ -35,6 +35,7 @@ body {
 #container h1 {
   font-size: 20px;
 }
+<<<<<<< HEAD
 #logo img {
   width: 2rem;
   height: 3rem;
@@ -44,4 +45,12 @@ body {
 }
 #cabecera p {
   padding: 0;
+=======
+#pie {
+  background: brown;
+  color: rgb(37, 14, 19);
+  padding: 3em;
+  text-align: center;
+  font-weight: 800;
+>>>>>>> footer
 }
