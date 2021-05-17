@@ -16,7 +16,7 @@ body {
   font-weight: bold;
   margin: 0;
   padding: 0 5em;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   padding: 0.5em 0.5em;
 }
 #tagline {
@@ -33,7 +33,7 @@ body {
   background: white;
 }
 #container h1 {
-  font-size: 20px;
+  font-size: 18px;
 }
 #logo img {
   width: 2rem;
