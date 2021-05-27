@@ -1,9 +1,11 @@
-Esta es la historia de Jonathan Castillo
+Esta es la historia de Jonathan
 
-Jonathan Castillo tiene 27 años y nació en Perú
+Jonathan tiene 27 años y nació en Perú. Y va a cumplir 28.
 
-main 10
+Hoy hablaremos de su historia.
 
-Estrellita es mi hermana que contribuye a este proyecto open source.
+Parece un poco alto, solo parece.
 
-Mañana nos enfocaremos en su vida laboral
+Hoy es el estudiante de Tech. 
+
+Ahora vamos a escribir algo para que luego lo borramos y después ver cómo regresaré al commit inicial
